@@ -1,1 +1,2 @@
-console.log("Yakubbaev Azamat");
+let a = "Yakubbaev Azamat"
+console.log(a);
